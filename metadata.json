@@ -1,0 +1,6 @@
+{
+  "name": "VENTUREX - Startup Idea Validation Platform",
+  "description": "Validate your startup and product ideas with real customer demand, conditional pre-orders, and AI market readiness analysis before you build.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
